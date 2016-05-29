@@ -3,17 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context="com.example.think.myapplication.MainActivity"
     android:weightSum="1">
 
-    <!---->
 
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="740dp"
-        android:id="@+id/imageView"
-        android:layout_gravity="center_vertical"
-        android:src="@android:mipmap/sym_def_app_icon"
-        android:layout_weight="1.06" />
 </LinearLayout>
